@@ -7,8 +7,7 @@ export default function TopBar() {
             <div className="topLeft">
                 <i className="topIcon fa-brands fa-facebook"></i>
                 <i className="topIcon fa-brands fa-twitter"></i>
-                <i className="topIcon fa-brands fa-instagram"></i>
-                <i className="topIcon fa-brands fa-facebook"></i>
+                <i className="topIcon fa-brands fa-youtube"></i>
             </div>
             <div className="topCenter">
                 <ul className="topList">
@@ -24,6 +23,6 @@ export default function TopBar() {
                 <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
             </div>
 
-        </div>
+        </div >
     )
 }

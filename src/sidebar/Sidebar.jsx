@@ -14,12 +14,10 @@ export default function Sidebar() {
             <div className="sidebarItem">
                 <span className='sidebarTitle'>CATEGORIES</span>
                 <ul className='sidebarList'>
-                    <li className='sidebarListItem'>Life</li>
-                    <li className='sidebarListItem'>Life1</li>
-                    <li className='sidebarListItem'>Life2</li>
-                    <li className='sidebarListItem'>Life3</li>
-                    <li className='sidebarListItem'>Life4</li>
-                    <li className='sidebarListItem'>Life5</li>
+                    <li className='sidebarListItem'>My projects</li>
+                    <li className='sidebarListItem'>Tutorials</li>
+                    <li className='sidebarListItem'>My Journey</li>
+                    <li className='sidebarListItem'>Reivews</li>
                 </ul>
             </div>
             <div className="sidebarItem">
@@ -27,8 +25,7 @@ export default function Sidebar() {
                 <div className="sidebarSocial">
                     <i className="sidebarIcon fa-brands fa-facebook"></i>
                     <i className="sidebarIcon fa-brands fa-twitter"></i>
-                    <i className="sidebarIcon fa-brands fa-instagram"></i>
-                    <i className="sidebarIcon fa-brands fa-facebook"></i>
+                    <i className="sidebarIcon fa-brands fa-youtube"></i>
                 </div>
             </div>
 
