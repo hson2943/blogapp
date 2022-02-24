@@ -6,7 +6,7 @@ export default function Sidebar() {
         <div className='sidebar'>
             <div className="sidebarItem">
                 <span className='sidebarTitle'>ABOUT ME</span>
-                <img src="https://img.freepik.com/free-vector/beautiful-gradient-spring-landscape_23-2148448598.jpg?size=626&ext=jpg" alt="" />
+                <img className='sidebarImg' src="https://img.freepik.com/free-vector/beautiful-gradient-spring-landscape_23-2148448598.jpg?size=626&ext=jpg" alt="" />
                 <p>
                     hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA hello everyone my name BALABA
                 </p>
